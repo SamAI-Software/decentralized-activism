@@ -11,6 +11,7 @@ The purpose of this project is to raise global solidarity, unite people, and exc
 - [Public Relations](#public-relations)
 - [Digital Resistance](#digital-resistance)
 - [Civil Disobedience](#civil-disobedience)
+- [Police Brutality](#police-brutality)
 - [Street Protests](#street-protests)
 - [Equipment](#equipment)
 - [Logistics](#logistics)
@@ -28,9 +29,10 @@ Democracy is in danger across the world. Global warming is accelerating. Human a
 
 All tactics and techniques listed below are based on a real-life experience of highly decentralized movements such as:
 
-* Hong Kong’s pro-democracy movement
-* Catalonia’s pro-independence movement
-* Cryptocurrency movement
+- 2014 Ukrainian revolution
+- Hong Kong’s pro-democracy movement
+- Catalonia’s pro-independence movement
+- Cryptocurrency community
 
 
 ## Idea
@@ -123,7 +125,11 @@ Website:
 
 - Branding
   - Logo
+  - End goal
   - Main slogan
+  - Anthem
+  - Mascots
+  - Symbols
 
 - Events
   - Press conferences
@@ -131,9 +137,14 @@ Website:
   - Open mics
   - Movie nights
 
-- Online resource lists
-  - Short resource lists for onboading new people
-  - Full resource lists for journalists and researchers
+- Local support
+  - Leaflets
+  - Posters
+  - Banners
+  - Flags
+  - Cloths
+  - Graffiti
+  - Lennon walls
 
 - International support
   - Translation into other languages
@@ -141,6 +152,17 @@ Website:
   - Ads in international newspapers
   - Solidarity marches
   - Cultural exchange events
+  - Petitions
+
+- Online resource lists
+  - Full resource lists for journalists and researchers
+  - Short resource lists for onboading new people
+    - Info about the movement (wiki page, YouTube videos)
+    - News sources (News aggregators, Telegram, Twitter, YouTube channels)
+    - Live streams sources (YouTube channels, websites)
+    - Free photos/videos for journalists (Websites)
+    - How to get involved in the moment
+    - How to help the movement from abroad
 
 ## Digital Resistance
 
@@ -150,6 +172,10 @@ Website:
 - Memes
 - Artworks
 - Hidden messages
+- Websites
+- Wi-Fi hotspots
+- Review-bombing
+- GDPR requests
 
 ## Civil Disobedience
 
@@ -159,12 +185,44 @@ Website:
   - Boycotts
 
 - Active
-  - Strikes
+  - General strikes
+  - Ways
+  - Sit-ins
   - Block infrastructure
     - Airports, train & bus stations
     - Bridges & tunnels
     - Roads
+      - Roadblocks/barricades
+      - Human traffic jams
+      - Vehicles traffic jams
 
+## Police Brutality
+
+[Back to navigation](#go-to)
+
+- Riot-control
+  - Tactics
+  - Less-lethal weapons
+    - Batons
+    - Pepper spray
+    - Tear gas
+    - Non-lethal projectiles
+      - Rubber bullets
+      - Sponge grenades
+      - Bean bags
+      - Pepper pellets
+
+  - Lethal weapons
+
+  - Vehicles
+    - Water cannons
+    - Armored trucks
+
+  - Other
+    - Police dogs
+
+- Sexual harassments
+- Death squads
 
 ## Street Protests
 
@@ -177,6 +235,7 @@ Website:
   - Banners
   - Supply chains
   - Hands signs
+
 - Roles
   - Frontliner
   - First Aider
@@ -184,8 +243,22 @@ Website:
   - Transporter
   - Scout
   - Coordinator
+
+- Barricades
+  - Shapes
+  - Metal barriers
+  - Railing
+  - Trash bins
+  - Bamboo sticks
+  - Building materials
+  - Bricks
+  - Cement with brick
+  - Bags filled with sand/snow/bricks
+  - Tables/chairs
+
 - Fluid strategy
   - Tactics
+
 - Stationary strategy
   - Preparation
   - Occupation
@@ -194,13 +267,63 @@ Website:
   - Escape routes
   - Demands
 
-
 ## Equipment
 
 [Back to navigation](#go-to)
 
 - Defense gear
-- Offense gear
+  - Umbrellas
+  - Hardhats, Helmets
+  - Gaggles
+  - Face masks
+  - Respirators
+  - Heat resistant gloves
+  - Raincoats
+  - Plastic wraps
+  - Makeshift shields
+    - Traffic signs
+    - Barrels
+    - Skateboards
+    - Wood panel
+    - Bin lid
+    - Cardboard boxes
+    - Ironing boards
+
+- Offense tools (non-lethal)
+  - Laser pointers
+  - Flashlights/torches
+  - Umbrellas
+  - Water bottles
+  - Slingshots
+  - Eggs
+
+- Med Kit
+  - Alcohol/antiseptics
+  - Hydrogen peroxide
+  - Bandages
+  - Band aids
+  - Gauze
+  - Cotton balls
+  - Pain killers
+  - Saline solution
+  - Small size saline
+  - Ventolin
+  - Trauma shears/scissors
+  - Tweezers
+
+- Other
+  - Water bottles
+  - Walkie-talkies
+  - Tape
+  - Cable ties
+  - Paint spray
+  - Spare cloth
+  - Power drills
+  - Vacuum cleaners
+  - Tennis and badminton rackets
+  - Traffic cones
+  - Waterproof bags
+  - Plastic teapots
 
 ## Logistics
 
