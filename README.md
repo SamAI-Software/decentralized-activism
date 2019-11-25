@@ -19,6 +19,7 @@ The purpose of this project is to raise global solidarity, unite people, and exc
 - [Logistics](#logistics)
 - [Finance](#finance)
 - [Electoral Fraud](#electoral-fraud)
+- [Notable Campaigns/Actions/Tactics](#notable-campaigns/actions/tactics)
 - [Other](#other)
 
 
@@ -28,7 +29,9 @@ The purpose of this project is to raise global solidarity, unite people, and exc
 
 *Disclaimer: Of course, these techniques can be used by a small group of extremists, the same as any kind of knowledge, tech, money, and infrastructure can be used by criminals. However, this guide is focused on techniques that provide good results only if the movement is supported by the majority of people through active participation, financial donations, and engagement on social media.*
 
-Democracy is in danger across the world. Global warming is accelerating. Human and animal rights are abused on a massive scale. Only global solidarity and unite of people across the world can bring us a better future. Decentralized movements proved to be more resilient because they cannot be stopped by the arrest of a few leaders. In this manual we will provide step by step instructions how to organize a sustainable decentralized movement, resist state-backed propaganda and protect from police brutality.
+Democracy is in danger across the world. Global warming is accelerating. Human and animal rights are abused on a massive scale. Only global solidarity and unite of people across the world can bring us a better future. Decentralized movements proved to be more resilient because they cannot be stopped by the arrest of a few leaders. In this manual we will provide step by step instructions how to organize a sustainable decentralized movement, resist state-backed propaganda and protect from police brutality. 
+
+The theory is an important part of an academic research, but in this manual we will focus of practical suggestions, so activists will be able to pro-actively approach new movements and give them suggestions how to improve their efficiency based on this manual.
 
 All tactics and techniques listed below are based on real examples of relatively decentralized movements such as:
 
@@ -141,7 +144,7 @@ Since decentralized movements use public forums for decision making process, an 
 Articles:
 [Digital resistance: security & privacy tips from Hong Kong protesters](https://medium.com/crypto-punks/digital-resistance-security-privacy-tips-from-hong-kong-protesters-37ff9ef73129)
 
-Website:
+Websites:
 [Privacytools.io](https://www.privacytools.io)
 
 ## Public Relations
@@ -168,8 +171,13 @@ Website:
   - Banners
   - Flags
   - Cloths
+  - Statues
   - Graffiti 
   - Lennon walls
+  - More info
+    - QR codes
+    - Short links
+    - Call to action
 
 - International support
   - Translation into other languages
@@ -188,6 +196,92 @@ Website:
     - Free photos/videos for journalists (Websites)
     - How to get involved in the moment
     - How to help the movement from abroad
+    - Donation links
+
+- Reddit
+  - Onboarding resources
+  - Megathreads for important events
+  - AMAs
+  - Cultural exchanges
+  - Dealing with noise
+    - Daily discussions
+    - More subreddits
+    - Memes
+
+Examples:
+
+#### Onboarding resources
+A [megathread](https://www.reddit.com/r/HongKong/comments/cxsz4i/megathread_resources_for_antiextradition_protest/) at [r/HongKong](https://www.reddit.com/r/HongKong/) was a great example of onboarding resources lists.
+
+![r/HongKong_megathread_resources1](manual/public-relations/reddit/hk_reddit_hong_kong_megathread_resources1.png)
+
+![r/HongKong_megathread_resources2](manual/public-relations/reddit/hk_reddit_hong_kong_megathread_resources2.png)
+
+[r/Bitcoin](https://www.reddit.com/r/Bitcoin/) used a side bar to link important resources that can help with onboarding.
+
+![r/Bitcoin_side_bar](manual/public-relations/reddit/reddit_r_bitcoin_side_bar.png)
+
+The [FAQ](https://www.reddit.com/r/btc/comments/9lfjrb/frequently_asked_questions_and_information_thread/) thread was pinned to [r/btc](https://www.reddit.com/r/btc/) in order to onboard new users and explain the main differences between [r/Bitcoin](https://www.reddit.com/r/Bitcoin/) and [r/btc](https://www.reddit.com/r/btc), because some newcomers could be confused since there were 2 subreddits with similar names.
+
+![r/btc_FAQ](manual/public-relations/reddit/reddit_r_btc_FAQ_megathread.png)
+
+[r/btc](https://www.reddit.com/r/btc) used “get started” button at the side bar that linked to an external website [bitcoin.com](https://www.bitcoin.com/get-started/).
+
+![r/btc_get_started_button](manual/public-relations/reddit/reddit_r_btc_side_bar_info_button_get_started.png)
+
+Many resources were linked at the top menu of [r/btc](https://www.reddit.com/r/btc).
+
+![r/btc_top_menu](manual/public-relations/reddit/reddit_r_btc_top_menu.png)
+
+#### Megathreads for important events
+
+During some big live events there might be too many similar posts, so well-moderated subreddits often use megathreads to combine together all discussions about that specific event. E.g., a megathread was used to discuss 2019 District Council Elections at [r/HongKong](https://www.reddit.com/r/HongKong/).
+
+![r/HongKong_megathread](manual/public-relations/reddit/reddit_r_hongkong_district_council_election_discussion_megathread.png)
+
+#### AMAs
+
+“Ask Me Anything” (AMA) threads are a good way to bring more attention to the movement, motivate people to engage with the content, and clarify certain misconceptions.
+
+For example, Braiins company started an [AMA session](https://www.reddit.com/r/Bitcoin/comments/dz1mgp/ama_bitcoin_mining_stratum_v2_we_are_braiins_the/) at [r/Bitcoin](https://www.reddit.com/r/Bitcoin/), which was pinned to the top for a few days.
+
+![r/Bitcoin_AMA](manual/public-relations/reddit/reddit_r_bitcoin_AMA.png)
+
+#### Cultural exchanges
+
+Organizing events with people from other subreddits can build a bridge between two similar movements, and increase global solidarity.
+
+For example, [r/HongKong](https://www.reddit.com/r/HongKong/) organized a [cultural exchange](https://www.reddit.com/r/HongKong/comments/dji5k5/cultural_exchange_with_raskanamerican/) event with another subreddit [r/AskAnAmerican](https://www.reddit.com/r/AskAnAmerican/).
+
+![r/HongKong_cultural_exchange](manual/public-relations/reddit/reddit_r_hongkong_cultural_exchange_ask_an_american.png)
+
+#### Dealing with noise
+
+When a sudreddit of the movement becomes big enough, the valuable information might get lost in the noise, so it’s important to keep a conversation focused on the main topic, while still give an opportunity for activists to engage in less-important conversations. This can be achieved with daily discussion threads, chatrooms, and creation of other subreddits.
+
+###### Daily discussions
+
+For example, a [daily discussion](https://www.reddit.com/r/CryptoCurrency/comments/e17gfo/daily_discussion_november_25_2019_gmt0/) thread at [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/).
+
+![r/CryptoCurrency_daily_discussions](manual/public-relations/reddit/reddit_r_cryptocurrency_daily_discussions.png)
+
+Daily discussion threads should be sorted by “new” by default in order to facilitate chat-style live conversations.
+
+![r/Bitcoin_daily_discussions](manual/public-relations/reddit/reddit_r_bitcoin_daily_discussions.png)
+
+###### More subreddits
+
+During big price swings, there is often a surge of price-related posts at many crypto-related subreddits, so a moderator [reminded](https://www.reddit.com/r/Bitcoin/comments/e1drny/rbitcoin_is_not_a_price_shoutbox_if_you_wish_to/) to all readers of [r/Bitcoin](https://www.reddit.com/r/Bitcoin/) that the price-related content could be posted at daily discussion threads, in the chatroom, or at another subreddit [r/BitcoinMarkets](https://www.reddit.com/r/BitcoinMarkets/). At the guidelines section in a side bar there was also a link to [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) subreddit for non-Bitcoin crypto posts.
+
+![r/Bitcoin_bitcoinmarkets](reddit_r_bitcoin_bitcoinmarkets_cryptocurrency_guidelines.png)
+
+###### Memes
+
+Memes and artworks are important to raise global awareness and keep people engaged with the issue, but sometimes there might be too many memes and they get lots of upvotes, so valuable information gets lost. The solutions are the same as with discussions: either combine all memes about certain event together into one megathread or move them all to another subreddit.
+
+For example, [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) had a link to [r/CryptoCurrencyMemes](https://reddit.com/r/cryptocurrencymemes) subreddit at the top menu.
+
+![r/CryptoCurrency_memes](manual/public-relations/reddit/reddit_r_cryptocurrency_top_menu_our_network_expanded_memes.png)
 
 ## Digital Resistance
 
@@ -285,13 +379,13 @@ Articles: [Weapons of mass control, tactics of mass resistance](https://www.reut
 
 - Barricades
   - Shapes
-  - Metal barriers
-  - Railing
+  - Traffic barriers
+  - Pedestrian guardrails
   - Trash bins
   - Bamboo sticks
   - Building materials
   - Bricks
-  - Cement with brick
+  - Cement with bricks
   - Bags filled with sand/snow/bricks
   - Tables/chairs
 
@@ -389,11 +483,12 @@ Articles: [Weapons of mass control, tactics of mass resistance](https://www.reut
 - Independent observers
 - “Smart voting” (opposition coalition)
 
-## Notable campaigns/actions
+## Notable Campaigns/Actions/Tactics
 
 [Back to navigation](#go-to)
 
 - Ukrainian anti-mask law
+- Automaidan/autodozor
 - #ProveThatYouCare campaign
 - “Smart voting” campaign
 
