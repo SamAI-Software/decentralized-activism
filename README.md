@@ -273,7 +273,7 @@ Daily discussion threads should be sorted by “new” by default in order to fa
 
 During big price swings, there is often a surge of price-related posts at many crypto-related subreddits, so a moderator [reminded](https://www.reddit.com/r/Bitcoin/comments/e1drny/rbitcoin_is_not_a_price_shoutbox_if_you_wish_to/) to all readers of [r/Bitcoin](https://www.reddit.com/r/Bitcoin/) that the price-related content could be posted at daily discussion threads, in the chatroom, or at another subreddit [r/BitcoinMarkets](https://www.reddit.com/r/BitcoinMarkets/). At the guidelines section in a side bar there was also a link to [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) subreddit for non-Bitcoin crypto posts.
 
-![r/Bitcoin_bitcoinmarkets](reddit_r_bitcoin_bitcoinmarkets_cryptocurrency_guidelines.png)
+![r/Bitcoin_bitcoinmarkets](manual/public-relations/reddit/reddit_r_bitcoin_bitcoinmarkets_cryptocurrency_guidelines.png)
 
 ###### Memes
 
