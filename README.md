@@ -19,7 +19,7 @@ The purpose of this project is to raise global solidarity, unite people, and exc
 - [Logistics](#logistics)
 - [Finance](#finance)
 - [Electoral Fraud](#electoral-fraud)
-- [Notable Campaigns/Actions/Tactics](#notable-campaigns/actions/tactics)
+- [Notable Tactics](#notable-tactics)
 - [Other](#other)
 
 
@@ -125,12 +125,11 @@ Examples:
 
 [HKrev.info](https://tl.hkrev.info/en/police-timeline/) was used to store evidences of police misconduct.
 
+[CryptoPanic](https://cryptopanic.com/) news aggregator was used by crypto enthusiasts and traders to track all the news that might affect the cryptocurrency market.
 
 ## Operations Security
 
 [Back to navigation](#go-to)
-
-Since decentralized movements use public forums for decision making process, an adversary (e.g., an authoritarian government) can eavesdrop on most of the communication, so operations security (OPSEC) should be focused on hiding an involvement of single individuals into the movement.
 
 - Surveillance
   - Internet surveillance
@@ -140,6 +139,35 @@ Since decentralized movements use public forums for decision making process, an 
 
 - Privacy & security tips
 - Hidden messages
+
+Since decentralized movements use public forums for decision making process, an adversary (e.g., an authoritarian government) can eavesdrop on most of the communication, so operations security (OPSEC) should be focused on hiding an involvement of single individuals into the movement, rather than hiding all communications among activists. As a result, an adversary will know most of the events that are planned by the activists, but he will not be able to punish individual activists because he will not know their real identities.
+
+###### Internet surveillance
+
+Here are some suggestions how to set up your smartphone for more privacy:
+
+1. Delete all Chinese apps or at least disable audio & location permissions, and log out when apps are not in use
+2. Disable FaceID and FingerID which an adversary can use to unlock victims’ phones without their consent
+3. Set up a SIM card PIN
+4. Lock a phone with a long and complicated PIN
+5. Delete any sensitive information from the phone (chat logs, photos, videos, browsing history, YouTube history)
+6. Use [Tor](https://www.torproject.org/) ([Orbot](https://guardianproject.info/apps/org.torproject.android/) for Android) or a [VPN](https://www.privacytools.io/providers/vpn/) (ideally, a VPN service should be paid for with crypto without any link to user’s ID, or with an anonymous prepaid debit card e.g. from a grocery store)
+7. Download [Brave](https://brave.com/) browser and always use private tabs for browsing. Another option is [Firefox](https://www.mozilla.org/firefox/) browser with installed privacy addons. (Here is an interesting [Firefox vs. Brave](https://www.reddit.com/r/privacytoolsIO/comments/dcuir6/digital_resistance_security_privacy_tips_from/f2s0xcd/?context=8&depth=9) discussion.)
+8. Set [DuckDuckGo](https://duckduckgo.com/) as a default search engine in the browser settings
+9. Lock all sensitive apps (messengers, gallery, notes, contacts, etc.) using “[Restrictions](https://www.lifewire.com/using-iphone-content-restrictions-2000102)” on iPhone or “App Lock” on Android
+
+There are different apps for a secure communication with an end-to-end encryption such as [Signal](https://www.signal.org/), [Telegram](https://telegram.org/), [Riot.im](https://riot.im), etc. Each app has its pros and cons, so we will not give any suggestions. Signal is more popular in western countries, while Telegram is very popular in the crypto community and among activists in places like Hong Kong, Russia, and Iran.
+
+However, unlike Riot.im, both Signal and Telegram require a phone number for registration, which is a big privacy vulnerability, so a proper setup is necessary for all activists who risk their lives or freedom by being involved in e.g. the pro-democracy movement in an authoritarian country.
+
+Here is a short-list how to set up Telegram for more privacy (the full list can be found [here](https://medium.com/crypto-punks/digital-resistance-security-privacy-tips-from-hong-kong-protesters-37ff9ef73129)):
+
+- Hide Telegram app from the homepage with “App Lock” on Android
+- Since a well-funded adversary can potentially [discover](https://www.zdnet.com/article/hong-kong-protesters-warn-of-telegram-feature-that-can-disclose-their-identities/) user’s phone number, advanced activists register a Telegram account using a prepaid sim-card that is not linked to user’s ID (ideally, an activation code is received on a cheap burner phone to avoid being identified via [IMEI](https://en.wikipedia.org/wiki/International_Mobile_Equipment_Identity)). Alternative: activists receive an activation code using [burner-like-apps](https://smartphones.gadgethacks.com/how-to/we-tested-best-burner-phone-apps-for-iphone-android-heres-our-top-4-0184759/). Another option is to use VoIP like [MySudo](https://mysudo.com/) or [Google Voice](https://www.google.com/voice), if an activist has a US-based phone number.
+- Set up Passcode Lock to protect secret chats
+- Use a Two-Step Verification to protect an account from a [SIM swap attack](https://nakedsecurity.sophos.com/2019/08/30/jacks-twitter-attacked-phone-number-hacked/)
+- Set up a username to use it for exchanging contacts instead of a phone number
+- Optional: set up Proxy if a VPN or Tor are not used
 
 Articles:
 [Digital resistance: security & privacy tips from Hong Kong protesters](https://medium.com/crypto-punks/digital-resistance-security-privacy-tips-from-hong-kong-protesters-37ff9ef73129)
@@ -169,6 +197,8 @@ Websites:
   - Leaflets
   - Posters
   - Banners
+  - Artworks
+  - Memes
   - Flags
   - Cloths
   - Statues
@@ -382,6 +412,7 @@ Articles: [Weapons of mass control, tactics of mass resistance](https://www.reut
   - Traffic barriers
   - Pedestrian guardrails
   - Trash bins
+  - Tires
   - Bamboo sticks
   - Building materials
   - Bricks
@@ -406,7 +437,7 @@ Articles: [Weapons of mass control, tactics of mass resistance](https://www.reut
 
 - Defense gear
   - Umbrellas
-  - Hardhats, Helmets
+  - Hardhats, helmets
   - Gaggles
   - Face masks
   - Respirators
@@ -417,8 +448,8 @@ Articles: [Weapons of mass control, tactics of mass resistance](https://www.reut
     - Traffic signs
     - Barrels
     - Skateboards
-    - Wood panel
-    - Bin lid
+    - Wood panels
+    - Bin lids
     - Cardboard boxes
     - Ironing boards
 
@@ -450,7 +481,7 @@ Articles: [Weapons of mass control, tactics of mass resistance](https://www.reut
   - Tape
   - Cable ties
   - Paint spray
-  - Spare cloth
+  - Spare cloths
   - Power drills
   - Vacuum cleaners
   - Tennis and badminton rackets
@@ -473,6 +504,7 @@ Articles: [Weapons of mass control, tactics of mass resistance](https://www.reut
 [Back to navigation](#go-to)
 
 - Crowdfunding
+- Sponsors
 
 ## Electoral Fraud
 
@@ -483,7 +515,7 @@ Articles: [Weapons of mass control, tactics of mass resistance](https://www.reut
 - Independent observers
 - “Smart voting” (opposition coalition)
 
-## Notable Campaigns/Actions/Tactics
+## Notable Tactics
 
 [Back to navigation](#go-to)
 
@@ -494,7 +526,7 @@ Articles: [Weapons of mass control, tactics of mass resistance](https://www.reut
 
 #### #ProveThatYouCare campaign
 
-In 2019 Russian-speaking pseudonymous video blogger [ToBeOr](https://www.youtube.com/watch?v=obnWpmbwjco) asked his followers to approach their favorite music artists, movie stars, and other famous people on social media with the hashtag [#ДокажиЧтоНеВсеРавно](https://twitter.com/hashtag/ДокажиЧтоНеВсеРавно), which can be translated as **#ProveThatYouCare**. As a result, many famous rappers, comedians, and video bloggers expressed their discontent with the current regime, attended an upcoming protest, and made anti-government video clips. That was a big change in the society, because before that famous people were usually self-censoring themselves due to potential repercussions for speaking out against the government.
+In 2019 the Russian-speaking pseudonymous video blogger [ToBeOr](https://www.youtube.com/watch?v=obnWpmbwjco) asked his followers to approach their favorite music artists, movie stars, and other famous people on social media with the hashtag [#ДокажиЧтоНеВсеРавно](https://twitter.com/hashtag/ДокажиЧтоНеВсеРавно), which can be translated as **#ProveThatYouCare**. As a result, many famous rappers, comedians, and video bloggers expressed their discontent with the current regime, attended an upcoming protest, and made anti-government video clips. That was a big change in the society, because before that famous people were usually self-censoring themselves due to potential repercussions for speaking out against the government.
 
 #### “Smart voting” campaign
 
@@ -505,3 +537,48 @@ In 2019 the Russian opposition politician Alexei Navalny with his team [mounted]
 [Back to navigation](#go-to)
 
 - Tips and Tricks
+
+## Support the project
+
+- Contribute
+- Donate
+- Big vision
+
+#### Contribute
+
+A current goal is to fill the manual with the useful information for activists across the world. If you care about the democracy, human & animal rights, LGBTQ+, environment, cryptocurrency, and other causes, then here is what you can do:
+
+- Add more valuable info to the manual
+- Share ideas and suggestions by creating an [issue](https://github.com/SamAI-Software/decentralized-activism/issues)
+- Fix typos and grammar
+- Translate completed sections to your language
+- Share this manual with your friends activists
+
+#### Donate
+
+This is a big time-consuming project, which requires lots of work and research. If you cannot contribute your time and knowledge, then please help the project with money.
+
+For privacy/safety reasons we currently accept only cryptocurrencies:
+
+BTC:1PeRU7uWmTBgwRmFKycGMfYpcAXwmWH2oh
+
+ETH:0x36CA369feAFc3C692EB1A605Ace47cc824A5DeAf
+
+BCH:qruxd9gnw4pf3z05lcrag7vczjm2fzrgjyclx620mk
+
+![crypto_QR_codes](support-the-project/crypto_QR_codes_btc_eth_bch_yellow.png)
+
+If you want to become a meaningful sponsor for the project, then you can [create a new issue](https://github.com/SamAI-Software/decentralized-activism/issues/new) or send a direct message on [Twitter](https://twitter.com/SamAI_Software).
+
+#### Big vision
+
+Ideally, with enough funding and contributors, this project should evolve into a web platform, which will increase global solidarity among activists across the world and teach people how to organize decentralized movements or add more decentralization to existent centralized movements.
+
+The platform should include the following:
+- **Detailed manual** to decentralized movements with very practical suggestions.
+- **Global map** with live info about protests, demonstrations, and other activist’s events across the world, including upcoming actions.
+- **News aggregator** focused on activism and decentralized movements.
+- **Blog** with news and opinion articles about new activist’s techniques and tactics.
+- **Open source tools** like online forums and live maps that can be forked and used by activists in their local movements.
+- **Mobile app** that will teach people about the civil disobedience and digital resistance in an easy entertaining way.
+- **Templates** for posters and banners that can be translated to other languages and adjusted for different movements.
