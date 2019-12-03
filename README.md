@@ -21,6 +21,7 @@ The purpose of this project is to raise global solidarity, unite people, and exc
 - [Electoral Fraud](#electoral-fraud)
 - [Notable Tactics](#notable-tactics)
 - [Other](#other)
+- [Support the Project](#support-the-project)
 
 
 ## Abstract
@@ -139,6 +140,8 @@ Examples:
 
 - Privacy & security tips
 - Hidden messages
+- Secret words
+- Warrant canary
 
 Since decentralized movements use public forums for decision making process, an adversary (e.g., an authoritarian government) can eavesdrop on most of the communication, so operations security (OPSEC) should be focused on hiding an involvement of single individuals into the movement, rather than hiding all communications among activists. As a result, an adversary will know most of the events that are planned by the activists, but he will not be able to punish individual activists because he will not know their real identities.
 
@@ -175,6 +178,29 @@ Articles:
 Websites:
 [Privacytools.io](https://www.privacytools.io)
 
+###### Warrant canary
+
+A [warrant canary](https://en.wikipedia.org/wiki/Warrant_canary) is usually used by a company to inform its users that a company has been served with a government subpoena despite legal prohibitions on revealing the existence of the subpoena. A warrant canary is also used to inform people that an activist has been arrested or served with a subpoena.
+
+There are two types of warrant canaries: active and passive.
+
+1. Passive canaries are placed in a public space and stay there, unless removed. For example, a employee of a cryptocurrency exchange Bitfinex [removed warrant canaries](https://www.trustnodes.com/2017/12/15/warrant-canary-bitfinex-employee-disappears-rumors-swirl) from his Twitter account in December, 2017. A month later if was revealed to the public that an exchange was indeed [served with a subpoena](https://www.bloomberg.com/news/articles/2018-01-30/crypto-exchange-bitfinex-tether-said-to-get-subpoenaed-by-cftc).
+
+![warrant_canary_bitfinex](manual/operations-security/warrant-canaries/warrant_canary_bitfinex_chris_ellis.jpg)
+
+2. Active canaries automatically expire, so they need to be repeatedly updated. For example, [Reddit didn’t include a warrant canary message](https://www.reuters.com/article/us-usa-cyber-reddit-idUSKCN0WX2YF) into its [2015 transparency report](https://np.reddit.com/r/announcements/comments/4cqyia/for_your_reading_pleasure_our_2015_transparency/d1knc88/) as it previously did in [2014 report](https://www.reddit.com/wiki/transparency/2014#wiki_national_security_requests), which stated that Reddit had never received a national security letter “or any other classified request for user information,”.
+
+Activists use both passive and active warrant canaries. For example, activists add some special symbols (emojis/text smileys/words) to their names or statuses on social media platforms or messaging apps. Once an activist has been detained and forced to cooperate, he tries to remove those symbols or change them to other emojis/smileys/words in order to inform other activists that communicating with him is not safe.
+
+However, sometimes a compromised activist cannot update his passive warrant canaries, because that could reveal his intentions and he might face serious repercussions, e.g. torture. In this case, the use of active warrant canaries is much safer. For example, a small group of activists can pre-agree on certain symbols that should be included in daily messages or after a certain action/event. If that symbols were not included in the message from a certain activist, then he has been compromised. After that a group can inform the whole movement that this particular group has been compromised, so the communication is not safe.
+
+There are two basic types of messages delivered via warrant canaries:
+
+1. One simply informs that an activist has been revealed/arrested/detained/etc.
+2. Another one is that an activist has been forced to cooperate, or may be it’s an adversary trying to impersonate an activist by e.g. using his mobile phone. 
+
+
+
 ## Public Relations
 
 [Back to navigation](#go-to)
@@ -188,6 +214,7 @@ Websites:
   - Symbols
 
 - Events
+  - Brainstorming events
   - Press conferences
   - Other conferences
   - Open mics
@@ -204,6 +231,7 @@ Websites:
   - Statues
   - Graffiti 
   - Lennon walls
+  - Night chanting
   - More info
     - QR codes
     - Short links
@@ -277,6 +305,11 @@ For example, Braiins company started an [AMA session](https://www.reddit.com/r/B
 
 ![r/Bitcoin_AMA](manual/public-relations/reddit/reddit_r_bitcoin_AMA.png)
 
+Another approach is periodic AMAs e.g. every week or month. A good example is Monero’s [MAAM](https://www.reddit.com/r/Monero/comments/dkyd6l/maam_monero_ask_anything_monday_october_21_2019/) (Monday Ask Anything Monero), which is held every Monday.
+
+![r/Monero_MAAM](manual/public-relations/reddit/reddit_r_monero_MAAM.png)
+
+
 #### Cultural exchanges
 
 Organizing events with people from other subreddits can build a bridge between two similar movements, and increase global solidarity.
@@ -345,8 +378,8 @@ For example, [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) had a 
 
 - Active
   - General strikes
-  - Ways
   - Sit-ins
+  - Human chains
   - Block infrastructure
     - Airports, train & bus stations
     - Bridges & tunnels
@@ -400,6 +433,7 @@ Articles: [Weapons of mass control, tactics of mass resistance](https://www.reut
   - Hands signs
 
 - Roles
+  - Marshal
   - Frontliner
   - First Aider
   - Engineer
@@ -538,7 +572,9 @@ In 2019 the Russian opposition politician Alexei Navalny with his team [mounted]
 
 - Tips and Tricks
 
-## Support the project
+## Support the Project
+
+[Back to navigation](#go-to)
 
 - Contribute
 - Donate
