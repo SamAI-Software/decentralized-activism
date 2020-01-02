@@ -257,9 +257,12 @@ There are two basic types of messages delivered via warrant canaries:
     - Donation links
 
 - Reddit
+  - Reddit censorship-resistance
   - Onboarding resources
   - Megathreads for important events
+  - Brainstorming megathreads
   - AMAs
+  - Surveys
   - Cultural exchanges
   - Dealing with noise
     - Daily discussions
@@ -268,6 +271,19 @@ There are two basic types of messages delivered via warrant canaries:
 
 Examples:
 
+#### Reddit censorship-resistance
+
+Having only one subreddit as a command center is a dangerous centralized approach, because the power will be concentrated in the hands of a few moderators, who can impose censorship to control the narrative or they can be forced by an adversary to cooperate. Additionally, Reddit itself can ban the subreddit of the movement e.g. due to political pressure from an authoritarian government.
+
+Ideally, a decentralized movement should rely on different discussion platforms and many subreddits, which are moderated by people with different stances on the future of the movement. That will assure that all participants can take part in the discussion, without being censored out due to their believes.
+
+Here are some examples of different platforms used in decentralized movements.
+
+Hong Kong’s pro-democracy movement: [LIHKG](https://lihkg.com/), [r/HongKong](https://reddit.com/r/HongKong), [Pincong](https://pincong.rocks/).
+
+Cryptocurrency community: [Bitcointalk](https://bitcointalk.org/), [r/CryptoCurrency](https://www.reddit.com/r/cryptocurrency), [r/Bitcoin](https://www.reddit.com/r/Bitcoin), [r/btc](https://www.reddit.com/r/btc), [r/Ethereum](https://www.reddit.com/r/ethereum), [r/Monero](https://www.reddit.com/r/Monero), etc.
+
+
 #### Onboarding resources
 A [megathread](https://www.reddit.com/r/HongKong/comments/cxsz4i/megathread_resources_for_antiextradition_protest/) at [r/HongKong](https://www.reddit.com/r/HongKong/) was a great example of onboarding resources lists.
 
@@ -275,7 +291,7 @@ A [megathread](https://www.reddit.com/r/HongKong/comments/cxsz4i/megathread_reso
 
 ![r/HongKong_megathread_resources2](manual/public-relations/reddit/hk_reddit_hong_kong_megathread_resources2.png)
 
-[r/Bitcoin](https://www.reddit.com/r/Bitcoin/) used a side bar to link important resources that can help with onboarding.
+[r/Bitcoin](https://www.reddit.com/r/Bitcoin/) used a sidebar to link important resources that can help with onboarding.
 
 ![r/Bitcoin_side_bar](manual/public-relations/reddit/reddit_r_bitcoin_side_bar.png)
 
@@ -283,7 +299,7 @@ The [FAQ](https://www.reddit.com/r/btc/comments/9lfjrb/frequently_asked_question
 
 ![r/btc_FAQ](manual/public-relations/reddit/reddit_r_btc_FAQ_megathread.png)
 
-[r/btc](https://www.reddit.com/r/btc) used “get started” button at the side bar that linked to an external website [bitcoin.com](https://www.bitcoin.com/get-started/).
+[r/btc](https://www.reddit.com/r/btc) used “get started” button at the sidebar that linked to an external website [bitcoin.com](https://www.bitcoin.com/get-started/).
 
 ![r/btc_get_started_button](manual/public-relations/reddit/reddit_r_btc_side_bar_info_button_get_started.png)
 
@@ -297,6 +313,12 @@ During some big live events there might be too many similar posts, so well-moder
 
 ![r/HongKong_megathread](manual/public-relations/reddit/reddit_r_hongkong_district_council_election_discussion_megathread.png)
 
+#### Brainstorming megathreads
+
+Brainstorming megathreads are a good source of new ideas on particular topics like suggestions how to improve a PR campaign or how to deal with water cannons. Brainstorming megathreads can also increase engagement of regular people in the movement, because they will feel that their voices are heard and that they can influence the movement. Brainstorming megathreads can be created periodically or when the movement faces a particular challenge.
+For example, [this brainstorming megathread](https://www.reddit.com/r/KatarinaMains/comments/5csuu2/katarina_rework_brainstorming_megathread/) was used as a hub for all ideas and suggestions about a reworked character in LoL online game.
+![r/KatarinaMains_brainstorming](manual/public-relations/reddit/reddit_r_katarinamains_brainstorming_megathread.png)
+
 #### AMAs
 
 “Ask Me Anything” (AMA) threads are a good way to bring more attention to the movement, motivate people to engage with the content, and clarify certain misconceptions.
@@ -309,6 +331,13 @@ Another approach is periodic AMAs e.g. every week or month. A good example is Mo
 
 ![r/Monero_MAAM](manual/public-relations/reddit/reddit_r_monero_MAAM.png)
 
+#### Surveys
+
+Conducting anonymous surveys can increase engagement and attract some attention from news outlets.
+
+For example, childfree subreddit conducts [annual surveys](https://www.reddit.com/r/childfree/comments/ehjdcx/subreddit_demographic_survey_2019_the_results/).
+
+![r/HongKong_cultural_exchange](manual/public-relations/reddit/reddit_r_childfree_survey.png)
 
 #### Cultural exchanges
 
@@ -334,7 +363,7 @@ Daily discussion threads should be sorted by “new” by default in order to fa
 
 ###### More subreddits
 
-During big price swings, there is often a surge of price-related posts at many crypto-related subreddits, so a moderator [reminded](https://www.reddit.com/r/Bitcoin/comments/e1drny/rbitcoin_is_not_a_price_shoutbox_if_you_wish_to/) to all readers of [r/Bitcoin](https://www.reddit.com/r/Bitcoin/) that the price-related content could be posted at daily discussion threads, in the chatroom, or at another subreddit [r/BitcoinMarkets](https://www.reddit.com/r/BitcoinMarkets/). At the guidelines section in a side bar there was also a link to [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) subreddit for non-Bitcoin crypto posts.
+During big price swings, there is often a surge of price-related posts at many crypto-related subreddits, so a moderator [reminded](https://www.reddit.com/r/Bitcoin/comments/e1drny/rbitcoin_is_not_a_price_shoutbox_if_you_wish_to/) to all readers of [r/Bitcoin](https://www.reddit.com/r/Bitcoin/) that the price-related content could be posted at daily discussion threads, in the chatroom, or at another subreddit [r/BitcoinMarkets](https://www.reddit.com/r/BitcoinMarkets/). At the guidelines section in a sidebar there was also a link to [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) subreddit for non-Bitcoin crypto posts.
 
 ![r/Bitcoin_bitcoinmarkets](manual/public-relations/reddit/reddit_r_bitcoin_bitcoinmarkets_cryptocurrency_guidelines.png)
 
