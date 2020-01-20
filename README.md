@@ -259,6 +259,8 @@ There are two basic types of messages delivered via warrant canaries:
 - Reddit
   - Reddit censorship-resistance
   - Onboarding resources
+  - Wiki
+  - Flairs
   - Megathreads for important events
   - Brainstorming megathreads
   - AMAs
@@ -306,6 +308,20 @@ The [FAQ](https://www.reddit.com/r/btc/comments/9lfjrb/frequently_asked_question
 Many resources were linked at the top menu of [r/btc](https://www.reddit.com/r/btc).
 
 ![r/btc_top_menu](manual/public-relations/reddit/reddit_r_btc_top_menu.png)
+
+#### Wiki
+
+A detailed wiki is a good way to provide newcomers with more information about the movement, especially if there is no external wiki like [bitcoin.it](https://en.bitcoin.it/wiki/Main_Page)). For example, [r/australia](https://www.reddit.com/r/australia/) sub had a dedicated wiki page about [Australian bushfires](https://www.reddit.com/r/australia/wiki/bushfire_help).
+
+![r/australia_wiki_bushfires](manual/public-relations/reddit/reddit_r_australia_bushfires_wiki.png)
+
+#### Flairs
+
+Adding colorful flairs and “filters by flairs” sidebar can help readers find most relevant posts.
+
+For example, flairs at [r/weekness](https://www.reddit.com/r/Weekness/)
+
+![r/weekness_filter_by_flair](manual/public-relations/reddit/reddit_r_weekness_filter_by_flair.png)
 
 #### Megathreads for important events
 
@@ -369,7 +385,10 @@ During big price swings, there is often a surge of price-related posts at many c
 
 ###### Memes
 
-Memes and artworks are important to raise global awareness and keep people engaged with the issue, but sometimes there might be too many memes and they get lots of upvotes, so valuable information gets lost. The solutions are the same as with discussions: either combine all memes about certain event together into one megathread or move them all to another subreddit.
+Memes and artworks are important to raise global awareness and keep people engaged with the issue, but sometimes there might be too many memes and they get lots of upvotes, so valuable information gets lost. There are different approaches to solve memes problem:
+1. Combine all memes about a certain event together into one megathread
+2. Move all memes to another subreddit
+3. Restrict memes to only a certain day of the week (e.g., Mondays at [r/witcher](https://www.reddit.com/r/witcher/comments/eokx5p/memes_are_for_mondays_only/))
 
 For example, [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) had a link to [r/CryptoCurrencyMemes](https://reddit.com/r/cryptocurrencymemes) subreddit at the top menu.
 
