@@ -263,6 +263,7 @@ There are two basic types of messages delivered via warrant canaries:
   - Flairs
   - Megathreads for important events
   - Brainstorming megathreads
+  - Finding peers
   - AMAs
   - Surveys
   - Cultural exchanges
@@ -335,6 +336,14 @@ Brainstorming megathreads are a good source of new ideas on particular topics li
 For example, [this brainstorming megathread](https://www.reddit.com/r/KatarinaMains/comments/5csuu2/katarina_rework_brainstorming_megathread/) was used as a hub for all ideas and suggestions about a reworked character in LoL online game.
 ![r/KatarinaMains_brainstorming](manual/public-relations/reddit/reddit_r_katarinamains_brainstorming_megathread.png)
 
+#### Finding peers
+
+If the movement doesn’t have external platforms to find peers, then a subreddit can facilitate that.
+
+For example, [Weekly Friends Threads](https://www.reddit.com/r/gaming/comments/ercfyd/making_friends_monday_share_your_game_tags_here/) at [r/gaming](https://www.reddit.com/r/gaming).
+
+![r/gaming_weekly_friends_thread](manual/public-relations/reddit/reddit_r_gaming_weekly_friends_thread.png)
+
 #### AMAs
 
 “Ask Me Anything” (AMA) threads are a good way to bring more attention to the movement, motivate people to engage with the content, and clarify certain misconceptions.
@@ -376,6 +385,23 @@ For example, a [daily discussion](https://www.reddit.com/r/CryptoCurrency/commen
 Daily discussion threads should be sorted by “new” by default in order to facilitate chat-style live conversations.
 
 ![r/Bitcoin_daily_discussions](manual/public-relations/reddit/reddit_r_bitcoin_daily_discussions.png)
+
+###### Discussion hubs
+
+If there are many discussion posts, then they can be arranged into discussion hubs.
+
+For example, a discussion hub at [r/witcher](https://www.reddit.com/r/witcher/comments/ed6m4a/episode_discussion_hub_the_witcher_s1/).
+
+![r/witcher_discussion_hub](reddit_r_witcher_discussion_hub.png)
+
+Another way to arrange discussion posts is to link them in the sidebar, e.g. “Newest Official Discussions” at [r/movies](https://www.reddit.com/r/movies/).
+
+![r/movies_official_discussions](reddit_r_movies_newest_official_discussions.png)
+
+Valuable discussions can be archived in the post or on the dedicated sub, e.g. [Best of 2019 Discussion Threads](https://www.reddit.com/r/discussionarchive/comments/ei5p69/best_of_2019_discussion_threads/) archive at [r/discussionarchive](https://www.reddit.com/r/discussionarchive/).
+
+![r/discussionarchive_best_of_2019](reddit_r_discussionarchive_best_of_2019_discussion_threads.png)
+
 
 ###### More subreddits
 
