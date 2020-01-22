@@ -269,6 +269,7 @@ There are two basic types of messages delivered via warrant canaries:
   - Cultural exchanges
   - Dealing with noise
     - Daily discussions
+    - Discussion hubs
     - More subreddits
     - Memes
 
@@ -392,15 +393,15 @@ If there are many discussion posts, then they can be arranged into discussion hu
 
 For example, a discussion hub at [r/witcher](https://www.reddit.com/r/witcher/comments/ed6m4a/episode_discussion_hub_the_witcher_s1/).
 
-![r/witcher_discussion_hub](reddit_r_witcher_discussion_hub.png)
+![r/witcher_discussion_hub](manual/public-relations/reddit/reddit_r_witcher_discussion_hub.png)
 
 Another way to arrange discussion posts is to link them in the sidebar, e.g. “Newest Official Discussions” at [r/movies](https://www.reddit.com/r/movies/).
 
-![r/movies_official_discussions](reddit_r_movies_newest_official_discussions.png)
+![r/movies_official_discussions](manual/public-relations/reddit/reddit_r_movies_newest_official_discussions.png)
 
 Valuable discussions can be archived in the post or on the dedicated sub, e.g. [Best of 2019 Discussion Threads](https://www.reddit.com/r/discussionarchive/comments/ei5p69/best_of_2019_discussion_threads/) archive at [r/discussionarchive](https://www.reddit.com/r/discussionarchive/).
 
-![r/discussionarchive_best_of_2019](reddit_r_discussionarchive_best_of_2019_discussion_threads.png)
+![r/discussionarchive_best_of_2019](manual/public-relations/reddit/reddit_r_discussionarchive_best_of_2019_discussion_threads.png)
 
 
 ###### More subreddits
