@@ -267,6 +267,7 @@ There are two basic types of messages delivered via warrant canaries:
   - AMAs
   - Surveys
   - Cultural exchanges
+  - Event calendar
   - Dealing with noise
     - Daily discussions
     - Discussion hubs
@@ -357,6 +358,17 @@ Another approach is periodic AMAs e.g. every week or month. A good example is Mo
 
 ![r/Monero_MAAM](manual/public-relations/reddit/reddit_r_monero_MAAM.png)
 
+There are different ways to organize AMAs with influencers. New subreddits might try to invite famous people, while popular subs can simply add a request form.
+
+For example, there is a “request an AMA” button in the sidebar of [r/politics](https://www.reddit.com/r/politics/).
+
+![r/politics_AMA_request](manual/public-relations/reddit/reddit_r_politics_request_an_AMA.png)
+
+Google forms can be used a simply tool for AMA requests.
+
+![r/politics_AMA_request_google_form](manual/public-relations/reddit_r_politics_google_forms_AMA_request.png)
+
+
 #### Surveys
 
 Conducting anonymous surveys can increase engagement and attract some attention from news outlets.
@@ -372,6 +384,13 @@ Organizing events with people from other subreddits can build a bridge between t
 For example, [r/HongKong](https://www.reddit.com/r/HongKong/) organized a [cultural exchange](https://www.reddit.com/r/HongKong/comments/dji5k5/cultural_exchange_with_raskanamerican/) event with another subreddit [r/AskAnAmerican](https://www.reddit.com/r/AskAnAmerican/).
 
 ![r/HongKong_cultural_exchange](manual/public-relations/reddit/reddit_r_hongkong_cultural_exchange_ask_an_american.png)
+
+#### Event calendar
+
+Scheduled events can be listed in the sidebar, e.g. an event calendar at [r/politics](https://www.reddit.com/r/politics/).
+
+![r/politics_event_calendar](manual/public-relations/reddit/reddit_r_politics_event_calendar_sidebar.png)
+
 
 #### Dealing with noise
 
@@ -409,6 +428,10 @@ Valuable discussions can be archived in the post or on the dedicated sub, e.g. [
 During big price swings, there is often a surge of price-related posts at many crypto-related subreddits, so a moderator [reminded](https://www.reddit.com/r/Bitcoin/comments/e1drny/rbitcoin_is_not_a_price_shoutbox_if_you_wish_to/) to all readers of [r/Bitcoin](https://www.reddit.com/r/Bitcoin/) that the price-related content could be posted at daily discussion threads, in the chatroom, or at another subreddit [r/BitcoinMarkets](https://www.reddit.com/r/BitcoinMarkets/). At the guidelines section in a sidebar there was also a link to [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) subreddit for non-Bitcoin crypto posts.
 
 ![r/Bitcoin_bitcoinmarkets](manual/public-relations/reddit/reddit_r_bitcoin_bitcoinmarkets_cryptocurrency_guidelines.png)
+
+Friendly subreddits can be listed in the sidebar, e.g. “Our other subreddits” sidebar at [r/videos](https://www.reddit.com/r/videos/).
+
+![r/videos_other_subreddits](manual/public-relations/reddit/reddit_r_videos_other_subreddits_sidebar.png)
 
 ###### Memes
 
