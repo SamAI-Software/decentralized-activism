@@ -366,7 +366,7 @@ For example, there is a “request an AMA” button in the sidebar of [r/politic
 
 Google forms can be used a simply tool for AMA requests.
 
-![r/politics_AMA_request_google_form](manual/public-relations/reddit_r_politics_google_forms_AMA_request.png)
+![r/politics_AMA_request_google_form](manual/public-relations/reddit/reddit_r_politics_google_forms_AMA_request.png)
 
 
 #### Surveys
